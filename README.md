@@ -7,8 +7,7 @@
 
 ## Demonstração
 
-
-
+<img src="https://github.com/wiltonmartinsdev/Calculadora-de-IMC/blob/main/assets/imc.gif?raw=true" />
 
 ## Funcionalidades
 - Iremos ter dois campos de entrada onde iremos inserir o peso e altura para o cálculo do IMC.

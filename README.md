@@ -34,6 +34,6 @@
 
 - A cada novo projeto proposto no [Explorer](https://www.rocketseat.com.br/explorer) sempre há novos aprendizados, focados em nos levar a pensar fora da caixa e com isso sempre aprimorando cada vez mais o conhecimento adquerido no programa.  
 - Nesse projeto reforcei e aprendi sobre   **Criação de Modal com HTML5 e CSS3**, **Modularização no JavaScript - Import/Export**, **Refatoração** e **Clean Code**.
-- Tive dificuldades para entender a lógica do sistema como um todo, dificuldades na hora da validação dos dados para aparecer o modal e a messagem de erro.
+- Tive dificuldades para entender a lógica do sistema como um todo, dificuldades na hora da validação dos dados para aparecer o modal e a mensagem de erro.
 - Mas praticando e revendo as aulas e realizando este projeto consegui entender a lógica e os conceitos aplicados no projeto.
 
